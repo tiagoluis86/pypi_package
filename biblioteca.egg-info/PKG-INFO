@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: biblioteca
+Version: 0.0.1
+Summary: Pacote de app de biblioteca para treinamento no uso de pacotes
+Home-page: github/tiagoluis86
+Author: tiagoluis86
+Author-email: tiagoluis86
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown

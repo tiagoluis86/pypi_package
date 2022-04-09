@@ -1,0 +1,8 @@
+setup.py
+biblioteca/__init__.py
+biblioteca/classes.py
+biblioteca/main_app.py
+biblioteca.egg-info/PKG-INFO
+biblioteca.egg-info/SOURCES.txt
+biblioteca.egg-info/dependency_links.txt
+biblioteca.egg-info/top_level.txt
